@@ -12,7 +12,7 @@
 
 **PHP web shell**: a website security tool written in PHP. [Link](https://github.com/0x416c616e/php_web_shell)
 
-**Prime Finder**: a program that finds primes and gaps between primes, and then graphs the data. It can save its place and then quit and resume later. Written in C++ and gnuplot. [Link](https://github.com/0x416c616e/primefinder)
+**Prime Finder**: a program that finds prime numbers, gaps between primes, and frequency of prime number occurrence. Then it graphs the data. It can save its place and then quit and resume later. Written in C++ and gnuplot. [Link](https://github.com/0x416c616e/primefinder)
 
 **AMP**: Alan's Maintenance Program. A shell script for automating Linux tasks, such as installing software updates, testing the network connection, and scanning for malware. [Link](https://github.com/0x416c616e/amp)
 
