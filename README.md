@@ -38,4 +38,6 @@
 
 **Server rack project**: built some servers and a network. Set up all the physical stuff as well as software. Currently, there are two hypervisors on it, and many other computers that I have yet to set up, but plan on eventually setting up as a Kubernetes cluster for containers. 
 
-**Future projects**: I want to concentrate on full stack LAMP development (web dev), using cloud providers for hosting my web projects, interacting with databases, publishing my book, and information security. My first major LAMP project might be a to-do list program. I will also be doing a Java-based database project this semester in the database class, writing a Java front-end program to interact with a database.
+**To-do list app**: a LAMP stack web-based to-do list app which stores to-do items in a database and requires authentication to view. I made this because I wanted a simple to-do list app, because I find myself using text files for writing to-do lists. Not only is it useful for me, it also demonstrates proficiency with Apache, MySQL, and PHP.
+
+**Future projects**: I want to concentrate on full stack LAMP development (web dev), using cloud providers for hosting my web projects, interacting with databases, publishing my book, and information security. I will also be doing a Java-based database project this semester in the database class, writing a Java front-end program to interact with a database.
