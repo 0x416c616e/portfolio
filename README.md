@@ -1,4 +1,4 @@
-# Portfolio
+# Alan's Portfolio
 
 **File Hider**: a file steganography tool for hiding files within other files. Written in Java with JavaFX for the GUI. [Link](https://github.com/0x416c616e/filehider)
 
