@@ -26,6 +26,8 @@
 
 **Tech quotes**: a project that randomly displays tech quotes from famous people in tech. Written in JavaScript. [Link](https://github.com/0x416c616e/techquotes)
 
+**ClearClipboard**: a browser add-on that clears your clipboard. Useful when you're copying and pasting something you only need to use for a little while and don't want to accidentally paste later. [Link](https://github.com/0x416c616e/clearclipboard)
+
 **Saint Louis Software website**: a static website with basic information about who I am, what my education is, and what I can do. Made with HTML, CSS, JavaScript, Bootstrap, etc. Primarily a front-end development project. [Link](https://github.com/saintlouissoftware/saintlouissoftware)
 
 **Various Wordpress websites**: I've made sites with Wordpress, a popular LAMP-based content management system. Examples: Hello Life Skills and Smart Financial Research. [Link1](https://hellolifeskills.com/) [Link2](https://smartfinancialresearch.com/)
