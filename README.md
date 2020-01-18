@@ -30,6 +30,8 @@
 
 **Saint Louis Software website**: a static website with basic information about who I am, what my education is, and what I can do. Made with HTML, CSS, JavaScript, Bootstrap, etc. Primarily a front-end development project. [Link](https://github.com/saintlouissoftware/saintlouissoftware)
 
+**AWS S3 Bucket Scraper**: a simple proof-of-concept security tool that demonstrates how misconfiguring an S3 bucket can be bad, as the S3 API's XML responses can let someone enumerate all objects within a bucket. This tool can download all files in an S3 bucket. If you're going to use the cloud, it's important that you understand security for it. [Link](https://github.com/0x416c616e/s3_bucket_scraper)
+
 **Various Wordpress websites**: I've made sites with Wordpress, a popular LAMP-based content management system. Examples: Hello Life Skills and Smart Financial Research. [Link1](https://hellolifeskills.com/) [Link2](https://smartfinancialresearch.com/)
 
 **File servers**: I've set up file servers with FreeNAS and ZFS for SMB file sharing. I've set up user accounts and permissions so that people can access their own files, but not other people's. Primarily used for Windows desktop file backups. **Photos/screenshots coming soon**
