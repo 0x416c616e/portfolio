@@ -34,6 +34,8 @@
 
 **ASIO**: Alan's Simple IO module for Python 3. It makes it easier to make HTTP requests, get HTTP responses, download files, write data to files, and more. It supports Unicode, ASCII, and binary data. [Link](https://github.com/0x416c616e/asio)
 
+**Clone All**: a Python tool for cloning every repo from a given GitHub user. Uses ASIO for IO operations. [Link](https://github.com/0x416c616e/clone_all)
+
 **Various Wordpress websites**: I've made sites with Wordpress, a popular LAMP-based content management system. Examples: Hello Life Skills and Smart Financial Research. [Link1](https://hellolifeskills.com/) [Link2](https://smartfinancialresearch.com/)
 
 **File servers**: I've set up file servers with FreeNAS and ZFS for SMB file sharing. I've set up user accounts and permissions so that people can access their own files, but not other people's. Primarily used for Windows desktop file backups. **Photos/screenshots coming soon**
