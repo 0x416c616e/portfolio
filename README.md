@@ -6,7 +6,7 @@
 
 **Intro to security**: a short book about information security. Uses Markdown for the chapters. [Link](https://github.com/0x416c616e/intro_to_security)
 
-**ChiWeather**: a bot that gets weather data for Chicago using a weather API. It also uses FTP to download a photo of the sky taken on another device, and then uses a script to add a timestamp to the image. It then uses the Twitter API to send a tweet that contains weather data. Written in Python and Bash. It has two separate components: one for taking the photo on a Raspberry Pi Zero (written in Bash), and another for building and sending the tweet (Python). It uses crontab for task scheduling. [Link to repo](https://github.com/0x416c616e/twitterweatherbot) [Link to Twitter account](https://twitter.com/ChiWeather)
+**ChiWeather**: a bot that gets weather data for Chicago using a weather API. It also uses FTP to download a photo of the sky taken on another device, and then uses a script to add a timestamp to the image. It then uses the Twitter API to send a tweet that contains weather data. Written in Python and Bash. It has two separate components: one for taking the photo on a Raspberry Pi Zero (written in Bash), and another for building and sending the tweet (Python). It uses crontab for task scheduling. [Link to repo](https://github.com/0x416c616e/weatherbot_new) [Link to Twitter account](https://twitter.com/ChiWeather)
 
 **PHP web shell**: a website security tool written in PHP. [Link](https://github.com/0x416c616e/php_web_shell)
 
