@@ -8,8 +8,6 @@
 
 **ChiWeather**: a bot that gets weather data for Chicago using a weather API. It also uses FTP to download a photo of the sky taken on another device, and then uses a script to add a timestamp to the image. It then uses the Twitter API to send a tweet that contains weather data. Written in Python and Bash. It has two separate components: one for taking the photo on a Raspberry Pi Zero (written in Bash), and another for building and sending the tweet (Python). It uses crontab for task scheduling. [Link to repo](https://github.com/0x416c616e/weatherbot_new) [Link to Twitter account](https://twitter.com/ChiWeather)
 
-**PHP web shell**: a website security tool written in PHP. [Link](https://github.com/0x416c616e/php_web_shell)
-
 **To-do list app**: a LAMP stack web-based to-do list app which stores to-do items in a database and requires authentication to view. I made this because I wanted a simple to-do list app, because I find myself using text files for writing to-do lists. Not only is it useful for me, it also demonstrates proficiency with Apache, MySQL, and PHP. [Link](https://github.com/0x416c616e/todolistapp)
 
 **Prime Finder**: a program that finds prime numbers, gaps between primes, and frequency of prime number occurrence. Then it graphs the data. It can save its place and then quit and resume later. Written in C++ and gnuplot. [Link](https://github.com/0x416c616e/primefinder)
@@ -41,6 +39,8 @@
 **Various Wordpress websites**: I've made sites with Wordpress, a popular LAMP-based content management system. Examples: Hello Life Skills and Smart Financial Research. [Link1](https://hellolifeskills.com/) [Link2](https://smartfinancialresearch.com/)
 
 **Simple rootkits**: a collection of simple scripts relating to rootkits, backdoors, reverse shells, bind shells, and listeners. Only for educational purposes, intended to demonstrate simple security concepts about remote interactive shells via /dev/tcp/, TCP listeners, and how crontab can be misused. [Link](https://github.com/0x416c616e/simple_rootkits)
+
+**PHP web shell**: a website security tool written in PHP. [Link](https://github.com/0x416c616e/php_web_shell)
 
 **File servers**: I've set up file servers with FreeNAS and ZFS for SMB file sharing. I've set up user accounts and permissions so that people can access their own files, but not other people's. Primarily used for Windows desktop file backups. **Photos/screenshots coming soon**
 
