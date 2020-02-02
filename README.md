@@ -40,6 +40,8 @@
 
 **Various Wordpress websites**: I've made sites with Wordpress, a popular LAMP-based content management system. Examples: Hello Life Skills and Smart Financial Research. [Link1](https://hellolifeskills.com/) [Link2](https://smartfinancialresearch.com/)
 
+**Simple rootkits**: a collection of simple scripts relating to rootkits, backdoors, reverse shells, bind shells, and listeners. Only for educational purposes, intended to demonstrate simple security concepts about remote interactive shells via /dev/tcp/, TCP listeners, and how crontab can be misused. [Link](https://github.com/0x416c616e/simple_rootkits)
+
 **File servers**: I've set up file servers with FreeNAS and ZFS for SMB file sharing. I've set up user accounts and permissions so that people can access their own files, but not other people's. Primarily used for Windows desktop file backups. **Photos/screenshots coming soon**
 
 **Customer routers**: I've set up routers with pfSense and DD-WRT. **Photos/screenshots coming soon**
