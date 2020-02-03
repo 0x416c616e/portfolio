@@ -34,6 +34,8 @@
 
 **ClearClipboard**: a browser add-on for Firefox and Chrome that clears your clipboard. Useful when you're copying and pasting something you only need to use for a little while and don't want to accidentally paste later. [Link](https://github.com/0x416c616e/clearclipboard)
 
+**Dice Roller**: a browser add-on that lets you roll dice or specify a custom range for random numbers to generate. [Link](https://github.com/0x416c616e/dice_roller)
+
 **Saint Louis Software website**: a static website with basic information about who I am, what my education is, and what I can do. Made with HTML, CSS, JavaScript, Bootstrap, etc. Primarily a front-end development project. [Link](https://github.com/saintlouissoftware/saintlouissoftware)
 
 **Various Wordpress websites**: I've made sites with Wordpress, a popular LAMP-based content management system. Examples: Hello Life Skills and Smart Financial Research. [Link1](https://hellolifeskills.com/) [Link2](https://smartfinancialresearch.com/)
