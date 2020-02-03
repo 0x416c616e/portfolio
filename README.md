@@ -38,9 +38,11 @@
 
 **Various Wordpress websites**: I've made sites with Wordpress, a popular LAMP-based content management system. Examples: Hello Life Skills and Smart Financial Research. [Link1](https://hellolifeskills.com/) [Link2](https://smartfinancialresearch.com/)
 
+**PHP web shell**: a website security tool written in PHP. [Link](https://github.com/0x416c616e/php_web_shell)
+
 **Simple rootkits**: a collection of simple scripts relating to rootkits, backdoors, reverse shells, bind shells, and listeners. Only for educational purposes, intended to demonstrate simple security concepts about remote interactive shells via /dev/tcp/, TCP listeners, and how crontab can be misused. [Link](https://github.com/0x416c616e/simple_rootkits)
 
-**PHP web shell**: a website security tool written in PHP. [Link](https://github.com/0x416c616e/php_web_shell)
+**Rootkit Finder**: a simple security tool for finding rootkits and other suspicious stuff in Linux. [Link](https://github.com/0x416c616e/rootkit_finder)
 
 **File servers**: I've set up file servers with FreeNAS and ZFS for SMB file sharing. I've set up user accounts and permissions so that people can access their own files, but not other people's. Primarily used for Windows desktop file backups. **Photos/screenshots coming soon**
 
