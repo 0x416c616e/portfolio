@@ -55,3 +55,5 @@
 **Computer science flash cards:** digital flash cards (for an app called Anki) for my computer science classes. [Link](https://github.com/0x416c616e/anki_decks)
 
 **Future projects**: I want to concentrate on full stack LAMP development (web dev), using cloud providers for hosting my web projects, interacting with databases, publishing my book, and information security. I will also be doing a Java-based database project this semester in the database class, writing a Java front-end program to interact with a database.
+
+**Unfinished projects:** for a list of my unfinished GitHub projects, check out this repo here: [Link](https://github.com/0x416c616e/unfinished_projects)
