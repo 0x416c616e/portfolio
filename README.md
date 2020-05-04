@@ -1,5 +1,7 @@
 # Alan's Portfolio
 
+**IT ticketing system**: a ticketing system I made for a class about databases. It's a Java program that interacts with a MySQL database. [Link](https://github.com/0x416c616e/ticketing_system)
+
 **File Hider**: a file steganography tool for hiding files within other files. Written in Java with JavaFX for the GUI. [Link](https://github.com/0x416c616e/filehider)
 
 **EZcrypt**: a file encryption/decryption tool. Written in Java with JavaFX for the GUI. [Link](https://github.com/0x416c616e/ezcrypt)
@@ -55,8 +57,6 @@
 **Server rack project**: built some servers and a network. Set up all the physical stuff as well as software. Currently, there are two hypervisors on it, and many other computers that I have yet to set up, but plan on eventually setting up as a Kubernetes cluster for containers. **Photos/screenshots coming soon**
 
 **Computer science flash cards:** digital flash cards (for an app called Anki) for my computer science classes. [Link](https://github.com/0x416c616e/anki_decks)
-
-**IT ticketing system**: a ticketing system I made for a class about databases. It's a Java program that interacts with a MySQL database. [Link](https://github.com/0x416c616e/ticketing_system)
 
 **Future projects**: I want to concentrate on full stack LAMP development (web dev), using cloud providers for hosting my web projects, interacting with databases, publishing my book, and information security. 
 
