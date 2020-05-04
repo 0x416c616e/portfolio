@@ -56,6 +56,8 @@
 
 **Computer science flash cards:** digital flash cards (for an app called Anki) for my computer science classes. [Link](https://github.com/0x416c616e/anki_decks)
 
-**Future projects**: I want to concentrate on full stack LAMP development (web dev), using cloud providers for hosting my web projects, interacting with databases, publishing my book, and information security. I will also be doing a Java-based database project this semester in the database class, writing a Java front-end program to interact with a database.
+**Future projects**: I want to concentrate on full stack LAMP development (web dev), using cloud providers for hosting my web projects, interacting with databases, publishing my book, and information security. 
+
+**IT ticketing system**: a ticketing system I made for a class about databases. It's a Java program that interacts with a MySQL database. [Link](https://github.com/0x416c616e/ticketing_system)
 
 **Unfinished projects:** some people say they can't think of a project idea. Some people I've spoken with struggle to come up with ideas for things to code. I'm the opposite. I have a zillion ideas for things I want to make. I have a backlog of projects that I want to make. Every day, there's always something more I can do. The best way to keep your skills sharp is to constantly code. Work on new projects. It's fun, educational, and makes you feel accomplished when you finish an app. In addition to my good finished projects, and some non-noteworthy projects, I also have a lot of unfinished projects. Some are half done, others I've barely started on, and some are ones I want to start on in the future in my free time. For a list of my unfinished GitHub projects, check out this repo here: [Link](https://github.com/0x416c616e/unfinished_projects)
