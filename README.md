@@ -54,7 +54,7 @@
 
 **Customer routers**: I've set up routers with pfSense and DD-WRT. **Photos/screenshots coming soon**
 
-**Server rack project**: built some servers and a network. Set up all the physical stuff as well as software. I mostly use the servers for virtual machines, such as for web development or infosec projects. [Link](https://raw.githubusercontent.com/0x416c616e/portfolio/master/assets/serverrack_compilation.jpg)
+**Server rack project**: built some servers and a network. Set up all the physical stuff as well as software. I mostly use the servers for virtual machines, such as for web development or infosec projects. [Link](https://raw.githubusercontent.com/0x416c616e/portfolio/master/assets/server_rack_compilation.jpg)
 
 **Computer science flash cards:** digital flash cards (for an app called Anki) for my computer science classes. [Link](https://github.com/0x416c616e/anki_decks)
 
