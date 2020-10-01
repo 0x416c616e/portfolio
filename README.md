@@ -10,6 +10,10 @@
 
 **ChiWeather**: a bot that gets weather data for Chicago using a weather API. It also uses FTP to download a photo of the sky taken on another device, and then uses a script to add a timestamp to the image. It then uses the Twitter API to send a tweet that contains weather data. Written in Python and Bash. It has two separate components: one for taking the photo on a Raspberry Pi Zero (written in Bash), and another for building and sending the tweet (Python). It uses crontab for task scheduling. [Link to repo](https://github.com/0x416c616e/weatherbot_new) [Link to Twitter account](https://twitter.com/ChiWeather)
 
+**JavaFX Piano**: a simple program that lets you play music with your keyboard. [Link](https://github.com/0x416c616e/javafx_piano)
+
+**AutoInput**: a program for automating keyboard/mouse input, useful if you're performing repetitive tasks on a computer. It's like a much simpler version of AutoHotKey. [Link](https://github.com/0x416c616e/AutoInput)
+
 **To-do list app**: a LAMP stack web-based to-do list app which stores to-do items in a database and requires authentication to view. I made this because I wanted a simple to-do list app, because I find myself using text files for writing to-do lists. Not only is it useful for me, it also demonstrates proficiency with Apache, MySQL, and PHP. [Link](https://github.com/0x416c616e/todolistapp)
 
 **Prime Finder**: a program that finds prime numbers, gaps between primes, and frequency of prime number occurrence. Then it graphs the data. It can save its place and then quit and resume later. Written in C++ and gnuplot. [Link](https://github.com/0x416c616e/primefinder)
