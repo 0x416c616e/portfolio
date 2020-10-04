@@ -12,6 +12,8 @@
 
 **JavaFX Piano**: a simple program that lets you play music with your keyboard. [Link](https://github.com/0x416c616e/javafx_piano)
 
+**Performance Benchmark**: a multithreaded Java program that tests your computer's performance. [Link](https://github.com/0x416c616e/performance_benchmark)
+
 **AutoInput**: a program for automating keyboard/mouse input, useful if you're performing repetitive tasks on a computer. It's like a much simpler version of AutoHotKey. [Link](https://github.com/0x416c616e/AutoInput)
 
 **To-do list app**: a LAMP stack web-based to-do list app which stores to-do items in a database and requires authentication to view. I made this because I wanted a simple to-do list app, because I find myself using text files for writing to-do lists. Not only is it useful for me, it also demonstrates proficiency with Apache, MySQL, and PHP. [Link](https://github.com/0x416c616e/todolistapp)
