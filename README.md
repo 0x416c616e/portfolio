@@ -52,10 +52,6 @@
 
 **Simple rootkits**: a collection of simple scripts relating to rootkits, backdoors, reverse shells, bind shells, and listeners. Only for educational purposes, intended to demonstrate simple security concepts about remote interactive shells via /dev/tcp/, TCP listeners, and how crontab can be misused. **If you're an employer and you'd like to see the security projects I've written, let me know. Otherwise, they are private so that people can't misuse them.**
 
-**Rootkit Finder**: a simple security tool for finding rootkits and other suspicious stuff in Linux. [Link](https://github.com/0x416c616e/rootkit_finder)
-
-**Abyss**: a cool security project. Ask me about it! The repo is private because it's a security-related project that I don't want people to misuse, but I will share it with select people.
-
 **File servers**: I've set up file servers with FreeNAS and ZFS for SMB file sharing. I've set up user accounts and permissions so that people can access their own files, but not other people's. Primarily used for Windows desktop file backups. **Photos/screenshots coming soon**
 
 **Customer routers**: I've set up routers with pfSense and DD-WRT. **Photos/screenshots coming soon**
