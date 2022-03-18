@@ -1,12 +1,12 @@
 # Alan's Portfolio
 
-##Current:
+## Current:
 
 **AdiaScript**: a procedural programming language and IDE. It can be used for many different things. It's the only open source project that I'm continuing to work on at the moment. [Link](https://github.com/0x416c616e/AdiaScript)
 
 -------
 
-##Old:
+## Old:
 
 **IT ticketing system**: a ticketing system I made for a class about databases. It's a Java program that interacts with a MySQL database. [Link](https://github.com/0x416c616e/ticketing_system)
 
